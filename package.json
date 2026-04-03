@@ -1,0 +1,21 @@
+{
+  "name": "pathpilot-studio",
+  "version": "1.0.0",
+  "description": "A polished dark-mode student career planner that generates career roadmaps or suggests fitting paths based on current skills and available time.",
+  "type": "module",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0",
+    "@vitejs/plugin-react": "^5.1.0",
+    "tailwindcss": "^4.2.0",
+    "@tailwindcss/vite": "^4.2.0"
+  }
+}
